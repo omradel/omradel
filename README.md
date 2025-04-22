@@ -1,60 +1,22 @@
 
-
-
-
-<div align="center">
-
-**"Premature optimization is the root of all evil"**
-
-<!--[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)-->
-<!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
-<!--[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev) -->
-<img src="https://komarev.com/ghpvc/?username=abdallahhemdan&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahhemdan" />
-
-
-</div>
-
-# Hey, I'm [Hemdan!](https://www.linkedin.com/in/hemdan99/) 
+# Hey, I'm [Omar!](https://www.linkedin.com/in/omar-adel%F0%9F%87%B5%F0%9F%87%B8-747786293/) 
 
 <br/>
 
 <div align="center">
 
-<a href="https://twitter.com/AbdallahHemda17"><img align="left" alt="hemdan | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/omar-adel%F0%9F%87%B5%F0%9F%87%B8-747786293/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
-<a href="https://www.linkedin.com/in/abdallah-a-hemdan/"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
-
-<a href="https://www.facebook.com/AbdallahHemdan99">
+<a href="https://www.facebook.com/omr.adelbakry.1">
   <img align="left" alt="hemdan's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
-
-<a href="https://www.instagram.com/abdallah__hemdan/">
-  <img align="left" alt="hemdan's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
   
-<a href="https://github.com/AbdallahHemdan">
+<a href="https://github.com/omradel">
   <img align="left" alt="hemdan's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
-<a href="https://www.hackerrank.com/Hemdan?hr_r=1">
-  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
-<a href="mailto:abdallah.ahmed.hemdan@gmail.com">
+
+<a href="mailto:omradelbakry375@gmail.com">
   <img align="left" alt="hemdan's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
-</a>
-
-
-<a href="https://codeforces.com/profile/AbdallahHemdan">
-  <img align="left" alt="hemdan's codeforces" width="40px" src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
-</a>
-
-
-
-<a href="https://hemdan.hashnode.dev/">
-  <img align="left" alt="hemdan's hashnode" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj86-LC7fAA-ib9z9QKaspSK6pHEv1JVrvQBipcf52fg&s" draggable="false" />
-</a>
-
-
-<a href="https://a-hemdan.medium.com">
-  <img align="left" alt="hemdan's medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" draggable="false" />
 </a>
 
 </div>
