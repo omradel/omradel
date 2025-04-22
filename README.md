@@ -26,7 +26,7 @@
 
 # 👨‍💻 About me
 
-- <img src="https://ensany.com/front/assets/img/logo-light.png" width="20" draggable="false"> Frontend Tech Lead<a href="https://instabug.com/"> @Ensany </a>, a company that that focus on web solutions.
+- <img src="https://ensany.com/front/assets/img/logo-light.png" width="20" draggable="false"> Frontend Developer<a href="https://instabug.com/"> @Ensany </a>, a company that that focus on web solutions.
 
 - 🎓 Graduated from <a href="https://fci.bsu.edu.eg/">Faculty of Computer Science and Artificial Intelligence Benisuef Univercity</a>
 
