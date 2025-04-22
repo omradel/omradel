@@ -24,33 +24,19 @@
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+# 👨‍💻 About me
 
-- <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/Instabug-Logomark_color.png" width="20" draggable="false"> Frontend Tech Lead<a href="https://instabug.com/"> @Instabug </a>, a company which focused on improving mobile app industry quality
+- <img src="https://ensany.com/front/assets/img/logo-light.png" width="20" draggable="false"> Frontend Tech Lead<a href="https://instabug.com/"> @Ensany </a>, a company that that focus on web solutions.
 
-- 🎓 Graduated from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a> Computer Engineering departement
+- 🎓 Graduated from <a href="https://fci.bsu.edu.eg/">Faculty of Computer Science and Artificial Intelligence Benisuef Univercity</a>
 
-- ✍️Technical Blogger <a href="https://hashnode.com/@Hemdan" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
-</a><a href="https://a-hemdan.medium.com" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
+- 📖 Currently Focus On: "**Frontend Performance**" from  <a href="https://developer.mozilla.org/en-US/docs/Web/Performance">MDN Performance docs</a>
 
-- 📖 Currently Reading: "**Frontend Architecture for Design Systems**" by [@Micah Godbolt](https://www.micahgodbolt.com/)
-
-- 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming and, Computer vision
+- 🏃‍♂️ I am passionate about Front-End, Web Performance and Backend 
 
 - 🚧 I'm currently focused on improving my ability to provide high quality web applications using Vue.js
 
 - 🍀 Ask me about anything, I will be happy to help
-
-- ⭐ Spotlight of the Week in hashnode with **+30K** page view <a href="https://twitter.com/hashnode/status/1407316192319127562" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-ffffff?logo=twitter&style=flat-square" /></a>
-
-- 🥷Instabug Ultimate Team 4x ([21Q3](https://www.linkedin.com/in/abdallah-a-hemdan/overlay/experience/1669032270/multiple-media-viewer/?treasuryMediaId=1635480070413), [21Q4](https://www.linkedin.com/in/abdallah-a-hemdan/overlay/experience/1669032270/multiple-media-viewer/?treasuryMediaId=1635480070418), [22Q1](https://www.linkedin.com/in/hemdan99/overlay/experience/1966426036/multiple-media-viewer/?treasuryMediaId=1635490860770), [22Q3](https://www.linkedin.com/in/hemdan99/overlay/experience/1966426036/multiple-media-viewer/?profileId=ACoAACQGJUEBwlvNU6PUBQ6H0BzKo8sosz8F9QM&treasuryMediaId=1635507549866))
-
-- 💬 Favourite Quotes: 
-
-  > “Premature optimization is the root of all evil” - Donald knuth
-
-  > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
-
 
 # 🧰 My Skills
 
