@@ -26,7 +26,7 @@
 
 # 👨‍💻 About me
 
-- <img src="https://fuelin.net/assets/home/logo.png" width="20" draggable="false"> Frontend Developer<a href="https://ensany.com/"> @Fuelin </a>
+- <img src="https://fuelin.net/assets/home/logo.png" width="20" draggable="false"> Frontend Developer<a href="https://fuelin.net/"> @Fuelin </a>
 
 - 🎓 Graduated from <a href="https://fci.bsu.edu.eg/">Faculty of Computer Science and Artificial Intelligence Benisuef Univercity</a>
 
